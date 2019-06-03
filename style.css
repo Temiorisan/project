@@ -1,0 +1,214 @@
+
+html,body{
+    height:100%;
+    background-image: url(../img/background.png);
+}
+
+h1{
+    color: rgb(202, 202, 233);
+    font-family: fantasy;
+    width: 400px;
+    float: center;
+    text-align:center;
+    font-size: 3em;
+}
+
+h4{
+    color: white;
+}
+h3{
+    color:white;
+}
+
+ .navbar{
+    background-color:white;
+    overflow: hidden;
+}
+.navbar a{
+    float: right;
+     display: block;
+    text-align: center;
+    padding: 6px 8px;
+    text-decoration: none;
+    font-size: 16px;
+    color:rgb(34, 34, 43);
+}
+aside{
+    float:right;
+    text-align: left;
+}
+.navbar a:hover{
+    background-color:#d5d5d5;
+    color: rgb(ff3b3f);
+}
+
+.navbar a.active{
+    background-color: rgb(243, 73, 73)
+    color:#CAEBF2
+
+}
+
+.navbar1{
+
+    background-color:;
+    color:rgb(212, 170, 170);
+    width:50px;
+    height:40px;
+    display: inline-block;
+}
+div.backback{
+    
+}
+
+/*showcase*/
+#showcase{
+    min-height:400px;
+    background-image: url(../img/heathcard.png);
+    padding: 40px;
+    margin-top: 20px;
+    text-align: center;
+    height:90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+aside#sidebar{
+    float: left;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+aside#aside.quote input,
+aside#aside.quote textarea{
+    width: 90%;padding: 5px;
+}
+aside#records{
+    float:left;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position:a
+}
+div.hero-image{
+    background-image: url(../img/BackgroundR.jpg);
+    height:90%;
+    background-position: center;
+    background-repeat: repeat;
+ }
+ 
+ div.hero-image1{
+    height:90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ /*.d-block{
+     height:40pix;
+     width: 30pix;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+ }
+
+ img{
+     width: 400px;
+     height: 303px;
+     margin:10x;
+     flex-wrap: wrap;
+ }
+h4{
+    color:white
+}
+img:hover{
+        transform:scale(1.1);
+}
+p.carddd{
+    color:rgb(71, 5, 5);
+    text-align: center;
+
+}
+ footer{
+    border:#;
+    background:rgba(52, 3, 80, 0.226);
+
+    text-align: center;
+    scroll-margin: 20px;
+    padding: 40px;
+    margin-top: 20px;
+    font-size:arial;
+    position:#;
+    clear:both;
+    color:white;
+}
+div.bg-light{
+    border-block: 7pix solid blue;
+    
+
+p{
+    color:white;
+    justify-content: right;
+    text-align: center;
+    font-family:;
+    font-style:;
+    padding:14;    
+} 
+.picture{
+    padding: 15px;
+
+}
+
+p.cardd{
+    color:white;
+    text-align: center;
+    position: absolute;
+    /* top: 50%; */
+    /* left:50%; */
+    transform: rotate(360);
+    
+    
+    
+}
+.card-text:{
+    color:rgb(55, 55, 68);
+    float: center;
+    text-wrap:
+}
+ul#services li{
+    list-style:;
+    padding:20px;
+    border:red;
+}
+p.text1,p.text2,p.text3{
+    background-color:#;
+    color:dark rgb(65, 28, 43)8);
+ 
+}
+
+.span{
+    
+}
+.img1{
+    float: right;
+    width: 150px;
+    height:100px;
+    padding;20px;
+}
+
+p.ul{
+    Color:white; 
+}
+
+
+}
+div.hero-text a button{
+ position: absolute;
+ left:50%;
+ color: blueviolet;
+ background: rgb(53, 40, 90);
+ border-color: rgb(67, 102, 141);
+ padding: 10px
+}
+.description {
+max-width: 600px;
+text-align: center;
+margin: auto;
